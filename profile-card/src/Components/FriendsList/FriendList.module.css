@@ -29,13 +29,11 @@
 }
 
 .online {
-  border-radius: 50%;
-  background: green;
+  border: 2px solid green;
 }
 
 .offline {
-  border-radius: 50%;
-  background: red;
+  border: 2px solid red;
 }
 
 .friend .name {
